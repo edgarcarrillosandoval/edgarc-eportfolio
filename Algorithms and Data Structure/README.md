@@ -10,3 +10,7 @@ The planned course outcomes for this enhancement were fully met. I achieved Outc
 **Enhancement Reflection**
 Working on this enhancement helped me see how better logic and simple data structures can make a program more useful and easier to expand later. I learned how important it is to think through how data flows from one function to the next and how small design changes can improve speed and clarity. One challenge I ran into was deciding what level of improvement was enough to show growth without overcomplicating the project. I wanted to keep the code readable but still show that I understand how to work with things like loops, vectors, and search functions. This process helped me grow as a developer by showing that improving code isn’t just about fixing bugs, it’s about making it smarter and more reliable.
 
+### 📂 Project Files
+
+- [Original Code – Project1.cpp](https://github.com/edgarcarrillosandoval/edgarc-eportfolio/blob/main/Algorithms%20and%20Data%20Structure/Project1.cpp)
+- [Enhanced Code – ProjectEnhancement.cpp](https://github.com/edgarcarrillosandoval/edgarc-eportfolio/blob/main/Algorithms%20and%20Data%20Structure/ProjectEnhancement.cpp)
