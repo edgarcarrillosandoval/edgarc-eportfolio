@@ -22,7 +22,7 @@ This ePortfolio is more than just a collection of files. It tells the story of w
 
 Before starting my enhancements, I created a code review video to explain the original functionality of my project, identify areas for improvement, and share my plan for enhancements. This walkthrough shows how I applied my skills in software design, algorithms, and databases to align with the CS 499 course outcomes.
 
-▶️ [Watch My Code Review](https://youtu.be/zfYRl7XZTf4)
+▶️ Code Review Video: https://youtu.be/zfYRl7XZTf4
 
 ## 📂 Project Categories
 
