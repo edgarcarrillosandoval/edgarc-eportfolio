@@ -14,6 +14,6 @@ This ePortfolio is more than just a collection of files. It tells the story of w
 
 ## 📂 Project Categories
 
--  [Software Design & Engineering](./Software%20Design%20and%20Engineering/)
--  [Algorithms and Data Structures](./Algorithms%20and%20Data%20Structure/)
--  [Databases](./Databases/)
+- **[Software Design & Engineering](./Software%20Design%20and%20Engineering/)**
+- **[Algorithms and Data Structures](./Algorithms%20and%20Data%20Structure/)**
+- **[Databases](./Databases/)**
