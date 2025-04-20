@@ -29,3 +29,9 @@ This ePortfolio is more than just a collection of files. It tells the story of w
   
 - **[Databases](./Databases/)**
   Hardened a vulnerable SQLite database project by implementing parameterized queries, stricter validation, and a logging system to detect SQL injection.
+
+## 🔗 GitHub Repository
+
+You can browse the full source code and folder structure on GitHub:
+
+[👉 View Repository on GitHub](https://github.com/edgarcarrillosandoval/edgarc-eportfolio)
