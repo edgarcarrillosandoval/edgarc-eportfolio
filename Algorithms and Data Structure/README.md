@@ -1,12 +1,12 @@
-##Artifact Overview
+**Artifact Overview**
 This artifact is a C++ client management program that I originally created for my final project in the CS 410 Reverse Engineering course during my last term. The project involved reviewing and fixing code for security problems. For Category One (Software Design and Engineering), I used this same project and enhanced it by improving input validation, fixing security issues, cleaning up the code structure, and adding better error handling. For Category Two (Algorithms and Data Structures), the focus of the enhancement was different. I worked on improving the logic of how data is processed, simplified the control flow, and added a linear search function using a vector to show how data structures and algorithms can be applied. The original version had basic input and processing but didn’t use those concepts in a strong way, so this was a good opportunity to show how I could improve the logic and data handling to make it run better and more efficiently.
 
-##Reason for Selection
+**Reason for Selection**
 I chose this artifact for the algorithms and data structure category because it allowed me to build on something I had already worked on and take it further. I added logic to process data more efficiently by updating the ProcessData function to change behavior based on different input values. I also improved the DisplayInfo function by reducing how many variables were used and combining steps. A big part of this enhancement was adding a new function that uses a vector and a linear search algorithm to check if a customer ID exists in a list. This shows that I understand how to use simple data structures and search techniques. I also made sure to add clear comments so anyone reading the code could follow the logic.
 
-##Course Outcomes Alignment
+**Course Outcomes Alignment**
 The planned course outcomes for this enhancement were fully met. I achieved Outcome 1 by clearly documenting my logic, adding comments, and making the program easier to follow and maintain. I also met Outcome 2 by improving how data is processed and structured, reducing the risk of performance issues or crashes. These enhancements followed the goals I laid out in my Module One plan, which focused on simplifying the code, strengthening control flow, and applying basic data structures and algorithms. Since the work aligned well with my original goals, I didn’t need to revise the plan during the enhancement process.
 
-##Enhancement Reflection
+**Enhancement Reflection**
 Working on this enhancement helped me see how better logic and simple data structures can make a program more useful and easier to expand later. I learned how important it is to think through how data flows from one function to the next and how small design changes can improve speed and clarity. One challenge I ran into was deciding what level of improvement was enough to show growth without overcomplicating the project. I wanted to keep the code readable but still show that I understand how to work with things like loops, vectors, and search functions. This process helped me grow as a developer by showing that improving code isn’t just about fixing bugs, it’s about making it smarter and more reliable.
 
