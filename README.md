@@ -1,3 +1,5 @@
+[Software Design & Engineering](./Software%20Design%20and%20Engineering/) • [Algorithms and Data Structures](./Algorithms%20and%20Data%20Structure/) • [Databases](./Databases/)
+
 Professional Self-Assessment
 Completing the Computer Science program and building my ePortfolio helped me reflect on how much I’ve grown technically and professionally. Throughout the program, I worked on real code, solved security problems, and improved my ability to explain how and why code works. The ePortfolio gave me the chance to take some of my best projects and strengthen them even more. It helped me highlight my skills in debugging, secure coding, algorithms, working with databases, and handling real hardware setups. These are all things I can now confidently speak about in a professional setting, whether I’m applying for software engineering jobs or trying to break into product management.
 
