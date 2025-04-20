@@ -10,3 +10,10 @@ Working on these projects helped me develop important technical skills, but I al
 The three artifacts I included in my portfolio, each enhanced in software design, algorithms, and databases, fit together to show a well-rounded view of my abilities. One shows my skill in fixing and refactoring broken code. Another highlights my understanding of security and database protection. The last one demonstrates how I approach algorithmic thinking and memory usage. Together, they show that I know how to work through problems, improve existing systems, and build new ones that are secure and efficient.
 
 This ePortfolio is more than just a collection of files. It tells the story of what I’ve learned and what I can offer as a developer. These enhancements prove I can solve real problems, think through solutions, and back up my ideas with working code. 
+
+
+## 📂 Project Categories
+
+-  [Software Design & Engineering](./Software%20Design%20and%20Engineering/)
+-  [Algorithms and Data Structures](./Algorithms%20and%20Data%20Structure/)
+- 🗄 [Databases](./Databases/)
