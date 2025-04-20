@@ -16,4 +16,4 @@ This ePortfolio is more than just a collection of files. It tells the story of w
 
 -  [Software Design & Engineering](./Software%20Design%20and%20Engineering/)
 -  [Algorithms and Data Structures](./Algorithms%20and%20Data%20Structure/)
-- 🗄 [Databases](./Databases/)
+-  [Databases](./Databases/)
