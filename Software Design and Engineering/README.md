@@ -10,4 +10,9 @@ This enhancement demonstrated key skills in software development and secure codi
 ##Enhancement Reflection
 While enhancing and updating the code, I learned how small changes can make a big difference in making a program more secure and easier to use. I paid closer attention to how input is handled, how clear the output is, and how each function works together. I also learned the importance of writing code that others can understand by adding comments and cleaning things up. One of the challenges I faced was figuring out how to improve areas of the code that were left unfinished or didn’t really do anything yet. It took some time to decide what to change and how to keep it working without adding too much. Overall, this helped me get better at reading and improving code, not just writing it from scratch.
 
+### 📂 Project Files
+
+- [Original Code – CS 410 Project1.cpp](./CS%20410%20Project1.cpp)
+- [Enhanced Code – ProjectEnhancement.cpp](./ProjectEnhancement.cpp)
+
 
