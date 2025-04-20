@@ -1,0 +1,14 @@
+# _config.yml
+
+# Site settings
+title: Edgar Carrillo's ePortfolio
+description: A professional showcase of my software engineering, algorithms, and database projects.
+
+# Apply the Cayman theme
+remote_theme: pages-themes/cayman@v0.2.0
+
+# Optional
+show_downloads: false
+
+# Use GitHub-compatible markdown
+markdown: kramdown
