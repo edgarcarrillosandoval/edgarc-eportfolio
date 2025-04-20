@@ -10,3 +10,7 @@ For this enhancement, I originally planned to meet two specific outcomes: using 
 **Enhancement Reflection**
 While working on this enhancement, I learned how important it is to secure database queries and handle input carefully. I understood SQL injection better by seeing how unsafe queries could be exploited and how parameterized statements can stop those attacks. Adding stronger input checks and logging also helped me see how these features work together to protect the system. These updates not only improved the program’s security but also made it more stable and reliable. One of the challenges I ran into was getting familiar with new SQLite functions like prepared statements and making sure they worked the way I expected. I had to test different inputs and review the output closely to confirm everything was working right. I also had to be careful with how the input was filtered so valid queries still worked while suspicious ones were blocked. Overall, the process helped me grow as a developer and gave me more confidence in writing secure code.
 
+### 📂 Project Files
+
+- [Original Code – SQLInjection.cpp](https://github.com/edgarcarrillosandoval/edgarc-eportfolio/blob/main/Databases/SQLInjection.cpp)
+- [Enhanced Code – SQLInjection_Enhancement.cpp](https://github.com/edgarcarrillosandoval/edgarc-eportfolio/blob/main/Databases/SQLInjection_Enhancement.cpp)
