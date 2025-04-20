@@ -17,5 +17,10 @@ This ePortfolio is more than just a collection of files. It tells the story of w
 ## 📂 Project Categories
 
 - **[Software Design & Engineering](./Software%20Design%20and%20Engineering/)**
+  Enhanced a C++ client management application by improving input validation, error handling, and code structure for better security and readability.
+  
 - **[Algorithms and Data Structures](./Algorithms%20and%20Data%20Structure/)**
+  Refactored logic and added a linear search algorithm to demonstrate algorithmic thinking and memory-efficient data processing in C++.
+  
 - **[Databases](./Databases/)**
+  Hardened a vulnerable SQLite database project by implementing parameterized queries, stricter validation, and a logging system to detect SQL injection.
