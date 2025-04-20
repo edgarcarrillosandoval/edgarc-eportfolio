@@ -18,6 +18,11 @@ The three artifacts I included in my portfolio, each enhanced in software design
 
 This ePortfolio is more than just a collection of files. It tells the story of what I’ve learned and what I can offer as a developer. These enhancements prove I can solve real problems, think through solutions, and back up my ideas with working code. 
 
+## 📽️ Code Review Video
+
+Before starting my enhancements, I created a code review video to explain the original functionality of my project, identify areas for improvement, and share my plan for enhancements. This walkthrough shows how I applied my skills in software design, algorithms, and databases to align with the CS 499 course outcomes.
+
+▶️ [Watch My Code Review]
 
 ## 📂 Project Categories
 
